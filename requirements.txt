@@ -1,0 +1,10 @@
+certifi
+future
+mkl-fft
+mkl-random
+mkl-service
+numpy
+Pillow
+pyglet
+six
+wincertstore
